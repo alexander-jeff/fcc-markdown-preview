@@ -1,4 +1,5 @@
 import React from 'react'
+import './PreviewArea.css'
 
 const PreviewArea = (props) => {
   const { text } = props
