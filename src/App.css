@@ -1,0 +1,33 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    background-color: #444;
+    height: 100%;
+    width: 100%;    
+}
+
+.App > #editor {
+    background-color: #444;
+    color: #08f328;
+    margin: 5px;
+    padding: 10px;
+    max-width: 50em;
+    min-width: 50em;
+    min-height: 4rem;
+    font-family: 'Source Code Pro', monospace;
+    border-radius: 5px;
+
+}
+
+.App > #preview {
+    background-color: rgb(59, 59, 59);
+    color: #e8e8e8;
+    width: 90%;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+

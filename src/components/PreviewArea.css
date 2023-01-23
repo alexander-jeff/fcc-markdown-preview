@@ -1,4 +1,6 @@
 #preview {
     white-space: pre-line;
     word-wrap: break-word;
+    font-weight: 100;
+    font-size: medium;
 }
