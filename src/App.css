@@ -30,4 +30,9 @@
     border-radius: 5px;
 }
 
+#preview img {
+    width: 80%;
+    height: auto;
+}
+
 
